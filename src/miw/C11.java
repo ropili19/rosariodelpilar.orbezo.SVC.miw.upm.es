@@ -1,4 +1,4 @@
-package miw;
+package src.miw;
 
 public class C11 {
     public C11() {
